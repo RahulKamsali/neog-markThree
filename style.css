@@ -6,7 +6,8 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px;
+    margin: 0px auto;
+    max-width: 85%;
 
 }
 hr{
@@ -84,10 +85,16 @@ hr{
 }
 .section{
     padding: 2rem;
+    border-radius: 1rem;
+    max-width: 70%;
+    margin: auto;
 }
 
 .section-not-h3{
     padding: 2rem;
+    border-radius: 1rem;
+    max-width: 70%;
+    margin: auto;
 }
 
 .section h3{
@@ -120,7 +127,7 @@ footer{
 }
 
 .end-pad{
-    padding-bottom: 6rem ;
+    padding-bottom: 3rem ;
     
 }
 
